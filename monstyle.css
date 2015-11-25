@@ -1,0 +1,40 @@
+body{
+	width: 60%;
+	padding: 0;
+	margin: auto;
+}
+.titre1{
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
+
+.titre2{
+	font-size: 30px;
+	text-align: left;
+	font-weight: bold;
+	color:grey;
+}
+
+.corps{
+	font-size: 16px;
+	text-align: left;
+	background: grey;
+}
+#entete{
+	font-size: 30px;
+	color: blue;
+	height: 60px;
+	text-align: left;
+	background-color: #DDDDFF;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+#pied{
+	font-size: 12px;
+	text-align: left;
+	background: #FF3300;
+	height: 15px;
+	color:white;
+}
